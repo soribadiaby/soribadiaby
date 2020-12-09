@@ -5,5 +5,4 @@ For any Machine Learning/Data Science project, contact me at soriba.dg@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soribadiaby)](https://github.com/anuraghazra/github-readme-stats)
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@soriba.dg/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0" alt="Recent Article 0">
-
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@soriba.dg/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@soriba.dg/0" alt="Recent Article 0">
